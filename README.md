@@ -11,4 +11,5 @@ amiga emulator GLES
  in your config add next strings
  
 video_format = rgba
+
 texture_format = rgba
